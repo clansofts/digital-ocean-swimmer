@@ -22,6 +22,4 @@ Coming soon :
 
 * Much more
 
-Source code : https://github.com/yassirh/digital-ocean-swimmer
-
-For issues or feature requests open a new issue here : https://github.com/yassirh/digital-ocean-swimmer/issues
+Source code : https://github.com/clansofts/digital-ocean-swimmer
